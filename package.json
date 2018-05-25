@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap_sandbox",
+  "description": "BOOTSTRAP 4 SANDBOX STARTER",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "C. Raymond Carroll",
+  "license": "ISC",
+
+  "dependencies": {
+    "live-server": "^1.2.0"
+  },
+  "scripts": {
+    "serve": "live-server ./"
+  }
+
+}
